@@ -1,4 +1,5 @@
-# 🔍 DeepFake Detection using AI
+# 🔍 DeepFake Detection using CNN
+
 
 ## 🚀 Overview  
 This project is a **DeepFake Detection** application powered by **Deep Learning**. It helps detect **AI-generated fake images** by analyzing subtle patterns that differentiate real and fake visuals. The application uses a **Convolutional Neural Network (CNN)** trained on a dataset of real and fake images.
